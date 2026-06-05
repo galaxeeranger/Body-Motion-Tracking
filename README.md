@@ -333,4 +333,4 @@ MIT License
 
 ⭐ If you find this project useful, consider starring the repository.
 
-[![Mocap Demo Video](https://github.com/galaxeeranger/Mocap/blob/master/MoCap_Demo.mp4)](https://github.com/galaxeeranger/Mocap/blob/master/MoCap_Demo.mp4)
+![Mocap Demo](./MoCap_Demo.gif)
