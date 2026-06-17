@@ -1,4 +1,4 @@
-# Mocap - Multi-Camera AI Motion Capture System
+# Body-Motion-Tracking (Mocap) - Multi-Camera AI Motion Capture System
 
 ![Mocap Demo](./Mocap_Demo.png)
 
